@@ -349,7 +349,7 @@ body {
   #HEADER
 \*-----------------------------------*/
 
-.header-action { display: none; }
+.header-action { display: flex; }
 
 .header {
   position: absolute;
